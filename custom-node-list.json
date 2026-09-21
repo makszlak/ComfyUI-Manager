@@ -1,5 +1,7 @@
-{
+[
+  {
     "author": "makszlak",
     "reference": "https://github.com/makszlak/ComfyUI_lora_stack_pack",
     "description": "A custom node pack for multi-LoRA stacking and dynamic weight management."
-  },
+  }
+]
